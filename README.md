@@ -1,2 +1,2 @@
 # hain-plugin-google-play
-Hain plugin that allows you to search on Google Play globally, in Android apps, music, movies, books, newsstand and devices!
+[Hain](https://github.com/appetizermonster/hain) plugin that allows you to search [Google Play](https://play.google.com).
